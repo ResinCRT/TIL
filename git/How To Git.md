@@ -55,7 +55,46 @@ git push <repo_name> <branch> #지정된 repository에 branch를 푸시
 
 
 
+### .gitignore
+
+git으로 관리할 때 무시할 파일/폴더 설정
+
+반드시 푸시하기 전에 설정하는 것을 추천
+
+
+
+### git 포트폴리오
+
+1. git 로그인
+
+2. {git username}.github.io 로 repository 생성
+
+3. 다른 프로젝트에서 clone
+
+   3-1. git 에서 코드 복사
+
+   ```bash
+   git clone <url> #원하는 폴더에서 git bash 연 후 실행
+   ```
+
+   3-2. 이미 git이 활성화되어 있음, remote 초기화
+
+   ```bash
+   git remote remove origin
+   ```
+
+   3-3. 내 git으로 푸시 (commit 이력은 이미 있음)
+
+   ```bash
+   git push <repo> <branch>
+   ```
+
+4. https://ID.github.io/로 접속하여 페이지 확인
+
+   
+
 ### 유용한 사이트
 
 - typora : md 에디터 다운로드
 - gitignore.io : git에서 무시하는 파일 선택
+- startBootstrap : theme을 가져올 수 있음
