@@ -53,3 +53,9 @@ git remote set-url <repo_name> <url> #repo_name에 있는 원격 저장소 주�
 git push <repo_name> <branch> #지정된 repository에 branch를 푸시
 ```
 
+
+
+### 유용한 사이트
+
+- typora : md 에디터 다운로드
+- gitignore.io : git에서 무시하는 파일 선택
