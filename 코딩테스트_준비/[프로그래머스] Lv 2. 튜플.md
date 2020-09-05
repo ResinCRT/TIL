@@ -1,6 +1,6 @@
 # [프로그래머스] Lv 2. 튜플
 
-문제 링크: [](https://programmers.co.kr/learn/courses/30/lessons/64065)
+문제 링크: [https://programmers.co.kr/learn/courses/30/lessons/64065](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
 ##### 문제 설명
 
