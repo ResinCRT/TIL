@@ -1,0 +1,5 @@
+{
+    "sketch": "wifi_mqtt/app.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM5"
+}
